@@ -28,7 +28,7 @@ User can change their name, their email id and their profile picture from this p
 User has the option to change their password as well! Here at Vough we help you correct your mistakes
 <img width="559" alt="Screenshot 2022-06-29 at 1 40 31 PM" src="https://user-images.githubusercontent.com/83267766/176385990-90f2a2cd-2b5d-49cb-9ae2-3bf177bc09af.png">
 
-As a bonus, I have added memes in some scenarios, an user will encounter one of them when they successfully change their password. 
+As a bonus, I have added memes in some scenarios, a user will encounter one of them when they successfully change their password or when they enter a wrong password during log in or changing password. 
 I will add details of other memes at some later stage possibly
 
 
