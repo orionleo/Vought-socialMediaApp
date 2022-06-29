@@ -13,6 +13,7 @@ User can easily search among the posts based on a post's message and their tags
 <img width="1439" alt="Screenshot 2022-06-29 at 1 32 00 PM" src="https://user-images.githubusercontent.com/83267766/176384343-99e719d7-cbbc-48dc-9014-ccc4a5419bf1.png">
 
 After logging in, which can be done using a custom email and password after signing up or using google authentication
+
 <img width="537" alt="Screenshot 2022-06-29 at 1 35 09 PM" src="https://user-images.githubusercontent.com/83267766/176384892-0a1f5c71-7d9e-4da3-b09b-e62d622af882.png"><img width="502" alt="Screenshot 2022-06-29 at 1 35 18 PM" src="https://user-images.githubusercontent.com/83267766/176384924-850d7052-84d2-4565-9487-84abc19b453a.png">
 
 After signing in, user can post images , named as (supes).
