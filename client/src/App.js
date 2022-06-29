@@ -36,7 +36,7 @@ function App() {
           <Route path='/wrongPassword' exact element={<WrongPassword />} />
           <Route path='/samePasswords' exact element={<SamePasswords />} />
           <Route path='/NotLoggedIn' exact element={<NotLoggedIn />} />
-          <Route path={`/ChangedPassword}`} exact element={<ChangedPassword />} />
+          <Route path='/ChangedPassword' exact element={<ChangedPassword />} />
           {!user?<Route path='/auth' exact element={<Auth />} />:<Route path='/auth' exact element={<Navigate replace to="/posts" />} />}
         </Routes>
       </Container>
