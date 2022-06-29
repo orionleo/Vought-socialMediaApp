@@ -20,7 +20,9 @@ After signing in, user can post images , named as (supes).
 The posts are paginated , with one page showing 8 posts at max.
 
 On the navbar, if you click on your profile picture, you will be redirected to a page to update your profile. Here at Vought, we help you become the better you!. 
+
 <img width="614" alt="Screenshot 2022-06-29 at 1 39 08 PM" src="https://user-images.githubusercontent.com/83267766/176385685-5f8f9c35-489d-4518-b838-b186ca8a245f.png">
+
 User can change their name, their email id and their profile picture from this page. 
 
 User has the option to change their password as well! Here at Vough we help you correct your mistakes
