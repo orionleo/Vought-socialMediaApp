@@ -17,7 +17,7 @@ import WrongPassword from './components/MemePages/WrongPassword.js';
 import SamePasswords from './components/MemePages/SamePasswords.js';
 import NotLoggedIn from './components/MemePages/NotLoggedIn.js';
 import ChangedPassword from './components/MemePages/ChangedPassword.js';
-
+import NotFound from "./components/NotFound/NotFound.js"
 
 function App() {
   const user = JSON.parse(localStorage.getItem('profile'));
@@ -38,6 +38,7 @@ function App() {
           <Route path='/NotLoggedIn' exact element={<NotLoggedIn />} />
           <Route path='/ChangedPassword' exact element={<ChangedPassword />} />
           {!user?<Route path='/auth' exact element={<Auth />} />:<Route path='/auth' exact element={<Navigate replace to="/posts" />} />}
+          <Route path ="*" element={<NotFound />}/>
         </Routes>
       </Container>
     </BrowserRouter>
