@@ -32,5 +32,3 @@ User has the option to change their password as well! Here at Vough we help you 
 
 As a bonus, I have added memes in some scenarios, a user will encounter one of them when they successfully change their password or when they enter a wrong password during log in or changing password. 
 I will add details of other memes at some later stage possibly
-
-
