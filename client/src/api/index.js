@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API = axios.create({ baseURL: "https://mern-social-media-123.herokuapp.com/" })
+const API = axios.create({ baseURL: "https://vought-social-media-app.vercel.app/" })
 API.interceptors.request.use(
     function (req) {
         if(localStorage.getItem('profile')){
