@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import { Container, AppBar, Typography, Grow, Grid } from "@material-ui/core";
 import { useDispatch } from 'react-redux';
 import { getPosts } from "./actions/posts.js"
-import { BrowserRouter, Routes,useLocation, Route, Navigate } from 'react-router-dom';
+import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 
 
 import Posts from './components/Posts/Posts.js';
